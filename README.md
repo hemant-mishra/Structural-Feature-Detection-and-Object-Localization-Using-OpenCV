@@ -1,5 +1,5 @@
 #  Structural Feature Detection and Object Localization Using OpenCV
-
+ 
 ##  Project Overview
 
 This project implements a **classical computer vision pipeline** using **OpenCV and Python** to perform **structural feature detection and object localization** on real‑world images. The workflow demonstrates how raw images can be transformed into structured, interpretable visual features through image enhancement, segmentation, and contour analysis.
